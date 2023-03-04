@@ -1,4 +1,4 @@
-# CNN-image-classification-pytorch
+# Bag of Visual Words
 
 The code installs OpenCV, mounts Google Drive, imports required libraries, defines functions to extract features from images and cluster the descriptors, and construct histograms of visual words using the Bag of Words representation.
 
